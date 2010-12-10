@@ -1,0 +1,61 @@
+/* customr css and js files included at the top level of your presentation will
+ * will be included in your presentation */
+
+body {
+  background: black;
+}
+
+.slide {
+  border: none;
+}
+
+.main {
+  background-color: #000;
+  color: #fff;
+}
+
+.fp h1 {
+  color: #68aaef;
+  line-height: 25%;
+}
+
+.fp h2 {
+  font-size: 300%;
+  line-height: 25%;
+  padding-bottom: 40px;
+}
+
+.fp img {
+  padding: 40px;
+}
+
+ul {
+  font-size:1.8em;
+}
+
+li {
+  margin-bottom: 1.5em;
+}
+
+.clients ul {
+  font-size:1.8em;
+  line-height: 250%;
+}
+
+.thanks h2 {
+  color: lightblue;
+}
+
+.demo {
+  background: white;
+  color: #000;
+}
+
+pre {
+  font-size:1.8em !important;
+}
+
+iframe {
+  width:100%;
+  height:100%
+}
